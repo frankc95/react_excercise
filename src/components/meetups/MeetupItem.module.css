@@ -20,6 +20,10 @@
   padding: 1rem;
 }
 
+.content > * {
+  margin-bottom: 1em;
+}
+
 .content h3 {
   font-size: 1.25rem;
   color: #2c292b;
